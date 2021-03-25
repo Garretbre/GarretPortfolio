@@ -3,9 +3,9 @@
 
 Here are a few samples of my work in C# and .Net Framework
 
-[GitHub](https://github.com/Garretbre/C-Projects/tree/main/CarInsurance)
+[Car Insurance](https://github.com/Garretbre/C-Projects/tree/main/CarInsurance)
 
-[GitHub](https://github.com/Garretbre/C-Projects/tree/main/Console%20Application%20Bool)
+[GroundHogsDay Drill](https://github.com/Garretbre/C-Projects/tree/main/Console%20Application%20Bool)
 
 The first Link is to my Car Insurance Application that will ask for your information just like any of the other car insurance companies. Process that information 
 to calculate how much your insurance rate a month would be for car insurance. I am currently working to bring pictures and dynamic material to this project. I am 
