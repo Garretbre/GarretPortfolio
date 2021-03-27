@@ -14,7 +14,7 @@ was to change all of the backgrounds of the pages I did not succeed because I di
 Insurance to Just Monster Truck Insurance and add a video to the homepage. In my spare time I will be working on this Web Application and I hope you come back to see 
 the growth in my coding skills.
 
-The secound link was one of my first projects I was passionate about when I started this specific course. I was not a huge fan jumping into C# this drill I am 
+The second link was one of my first projects I was passionate about when I started this specific course. I was not a huge fan jumping into C# this drill I am 
 keeping in mind for future projects. I grew to enjoy all of the differant ways I could code with this course. This drill was about giving the user a choice to 
 continue reliving groundhogs day or break free from the loop. Advising not to type in a number that would provide an infinite loop. All choices worked and made 
 sense to me. Everytime I would get stuck I would think back to this drill and think to myself. How would I make this new project work so no matter what the user 
